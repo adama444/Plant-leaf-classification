@@ -1,5 +1,13 @@
 # Plant-leaf-classification
 
+## Purpose
+- [x] Data augmentation
+- [ ] Deep learning model implementation
+- [x] Some litterature review
+- [x] Machine learning classification model tuning
+- [ ] Improve segmentation code
+- [ ] Review plant leaf features extraction
+
 ## Abstract
 The project aims to develop an automated classification system for plant species based on leaf image analysis. Using computer vision techniques, the main objective is to determine to which species a leaf belongs. The crucial step in this process is image processing in order to extract the essential characteristics. The classification process will begin with the collection of a diverse data set, including images of leaves from different plant species. Then, the computer vision algorithm will be used on these data in order to recognize the distinctive characteristics of different species. The key step in image processing will involve careful extraction of relevant leaf characteristics, such as shape, texture, and other species-specific parameters. These characteristics will serve as the basis for the subsequent classification, which will focus on classification machine learning techniques. The effectiveness of the model will be assessed using performance metrics, demonstrating its ability to generalize and accurately classify plant species from leaf images.
 
